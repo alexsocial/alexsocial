@@ -1,5 +1,6 @@
 <h1 align="center">Hello! I'm Alex Chaban, and welcome to my profile!</h1>
 <h3 align="center">An excited software engineer and developer</h3>
+<h3 align="center">Graduated with a Bachelor of Science in Computer Science and a minor in AI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexsocial&label=Profile%20views&color=0e75b6&style=flat" alt="alexsocial" /> </p>
 
