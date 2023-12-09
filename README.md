@@ -2,7 +2,7 @@
 <h3 align="center">An excited software engineer and developer</h3>
 <h3 align="center">Graduated with a Bachelor of Science in Computer Science and a minor in AI</h3>
 
-- 🔭 I’m currently working on [a Pokemon-styled game using Ruby and RPG Maker's Engine]([https://github.com/AirAssaultApplication/AirAssaultApplication](https://github.com/alexsocial/pkmn-d)
+- 🔭 I’m currently working on [a Pokemon-styled game using Ruby and RPG Maker's Engine](https://github.com/alexsocial/pkmn-d])
 
 - 🌱 I’m currently learning **Unity, RPGMaker XP, Unreal Engine 5, advanced Flask**
 
