@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **achaban1001@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/alex-chaban-392260228/](https://www.linkedin.com/in/alex-chaban-392260228/)
+- 📄 Know about my experiences [on my LinkedIn](https://www.linkedin.com/in/alex-chaban/)
 
 - ⚡ Fun fact **I love doing in-depth analyses of characters from shows**
 
