@@ -1,18 +1,14 @@
 <h1 align="center">Hello! I'm Alex Chaban, and welcome to my profile!</h1>
-<h3 align="center">An excited software engineer and developer</h3>
+<h3 align="center">Junior Full Stack Software Engineer</h3>
 <h3 align="center">Graduated with a Bachelor of Science in Computer Science and a minor in AI</h3>
 
 - 🔭 I’m currently working on [a Pokemon-styled game using Ruby and RPG Maker's Engine](https://github.com/alexsocial/pkmn-d)
 
-- 🌱 I’m currently learning **Unity, RPGMaker XP, Unreal Engine 5, advanced Flask**
+- 🌱 I’m currently learning **Advanced TypeScript, C#, and Full Stack Engineering**
 
-- 👯 I’m looking to collaborate on **fun, new projects for just about anything**
+- 👨‍💻 All of my personal projects are available at [https://github.com/alexsocial](https://github.com/alexsocial)
 
-- 🤝 I’m looking for help with **finding resources to learn more**
-
-- 👨‍💻 All of my projects are available at [https://github.com/alexsocial](https://github.com/alexsocial)
-
-- 📫 How to reach me **achaban1001@gmail.com**
+- 📫 You can reach me via email at **achaban1001@gmail.com**
 
 - 📄 Know about my experiences [on my LinkedIn](https://www.linkedin.com/in/alex-chaban/)
 
